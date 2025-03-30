@@ -1,0 +1,8 @@
+python-dotenv
+pydantic
+langchain-community
+langchain-openai
+langchain-anthropic
+wikipedia
+langchain
+duckduckgo-search
